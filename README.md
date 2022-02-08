@@ -12,7 +12,7 @@
 [![Markdown](https://img.shields.io/badge/Markdown-Basics-0077B5?style=for-the-badge&logo=markdown)](https://en.wikipedia.org/wiki/Markdown)
 [![HTML](https://img.shields.io/badge/HTML-Basics-DD4A24?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp)
 [![CSS](https://img.shields.io/badge/CSS-Basics-254BDD?style=for-the-badge&logo=css3)](https://www.w3schools.com/css/default.asp)
-[![Bash](https://img.shields.io/badge/bash-Basics-254BDD?style=for-the-badge&logo=bash)](https://www.w3schools.io/terminal/bash-tutorials/)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)(https://www.w3schools.io/terminal/bash-tutorials/)
 
 ## 🔧 Tools 
 
