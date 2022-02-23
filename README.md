@@ -4,6 +4,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CyberVarun" alt="CyberVarun" /></a> </p>
 
+## 🔗 Socials
+[![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cybervaruntech@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/varun_tech_/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Varun_Jagtap)
+[![GitHub](https://img.shields.io/github/followers/CyberVarun?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/CyberVarun) <br><br>
+
 ## Languages
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CyberVarun&show_icons=true&locale=en&layout=compact&theme=dark" alt="CyberVarun" />
 
@@ -22,6 +28,10 @@
 [![Vim](https://img.shields.io/badge/Vim-019331?style=for-the-badge&logo=vim)](https://www.vim.org/)
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
+
+## 💻 PC
+[![Linux](https://img.shields.io/badge/Linux-laptop-0078D6?style=for-the-badge&logo=linux)](https://www.google.com/search?q=linux)
+[![Windows](https://img.shields.io/badge/Windows-laptop_and_VM-51A2DA?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en/windows/)
 
 ## Working Experience with:
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
