@@ -6,7 +6,7 @@
 
 ## 🔗 Socials
 [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cybervaruntech@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/varun_tech_/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cyber_varun/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Varun_Jagtap)
 [![GitHub](https://img.shields.io/github/followers/CyberVarun?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/CyberVarun) <br><br>
 
