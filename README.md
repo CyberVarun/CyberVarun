@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hi%20I%20am%20Varun!&fontSize=50&animation=fadeIn&ontColor=000000">
 
-<h3 align="left">A Tinkerer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CyberVarun" alt="CyberVarun" /></a> </p>
+<h2 align="left">TryHackMe Rank</h2>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/CyberVarun.png" alt="TryHackMe">
 
 ## 🔗 Socials
 [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cybervaruntech@gmail.com)
