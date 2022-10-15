@@ -5,7 +5,8 @@
 [![@cybervarun's Holopin board](https://holopin.me/cybervarun)](https://holopin.io/@cybervarun)
 
 <h2 align="left">TryHackMe Rank</h2>
- <img src="https://tryhackme-badges.s3.amazonaws.com/CyberVarun.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/CyberVarun.png" alt="TryHackMe">
+
 
 ## 🔗 Socials
 [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cybervaruntech@gmail.com)
