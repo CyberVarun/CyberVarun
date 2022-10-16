@@ -27,6 +27,7 @@
 [![CSS](https://img.shields.io/badge/CSS-Basics-254BDD?style=for-the-badge&logo=css3)](https://www.w3schools.com/css/default.asp)
 [![C](https://img.shields.io/badge/C-Basics-00427E?style=for-the-badge&logo=c&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C++-Basics-6295CB?style=for-the-badge&logo=cplusplus)]()
+![PHP](https://img.shields.io/badge/php-Basics-23777BB4?style=for-the-badge&logo=php&logoColor=white)
 [![Bash](https://img.shields.io/badge/Bash-272E35?style=for-the-badge&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 ## 🔧 Tools 
