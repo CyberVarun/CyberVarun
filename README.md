@@ -23,12 +23,13 @@
 [![Python](https://img.shields.io/badge/Python-Primary_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Basics-FFCE5A?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
 [![Markdown](https://img.shields.io/badge/Markdown-Basics-0077B5?style=for-the-badge&logo=markdown)](https://en.wikipedia.org/wiki/Markdown)
-[![HTML](https://img.shields.io/badge/HTML-Basics-DD4A24?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp)
+[![HTML](https://img.shields.io/badge/HTML-Basics-DD4A24?style=for-the-badge&logo=html5)](https://www.w3schools.com/html/default.asp)
 [![CSS](https://img.shields.io/badge/CSS-Basics-254BDD?style=for-the-badge&logo=css3)](https://www.w3schools.com/css/default.asp)
-[![C](https://img.shields.io/badge/C-Basics-00427E?style=for-the-badge&logo=c&logoColor=white)]()
+[![C](https://img.shields.io/badge/C-Basics-00427E?style=for-the-badge&logo=c)]()
 [![C++](https://img.shields.io/badge/C++-Basics-6295CB?style=for-the-badge&logo=cplusplus)]()
-![PHP](https://img.shields.io/badge/php-Basics-23777BB4?style=for-the-badge&logo=php&logoColor=white)
-[![Bash](https://img.shields.io/badge/Bash-272E35?style=for-the-badge&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash/)
+![PHP](https://img.shields.io/badge/php-Basics-23777BB4?style=for-the-badge&logo=php)
+![Elixir](https://img.shields.io/badge/elixir-Basics-234B275F.svg?style=for-the-badge&logo=elixir)
+[![Bash](https://img.shields.io/badge/Bash-272E35?style=for-the-badge&logo=gnu%20bash)](https://www.gnu.org/software/bash/)
 
 ## 🔧 Tools 
 
