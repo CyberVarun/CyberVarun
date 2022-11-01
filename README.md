@@ -28,7 +28,7 @@
 [![C](https://img.shields.io/badge/C-Basics-00427E?style=for-the-badge&logo=c)]()
 [![C++](https://img.shields.io/badge/C++-Basics-6295CB?style=for-the-badge&logo=cplusplus)]()
 ![PHP](https://img.shields.io/badge/php-Basics-23777BB4?style=for-the-badge&logo=php)
-![Elixir](https://img.shields.io/badge/elixir-Basics-234B275F.svg?style=for-the-badge&logo=elixir)
+![Elixir](https://img.shields.io/badge/elixir-Basics-234B275F.svg?style=for-the-badge&logo=elixir&logoColor=purple)
 [![Bash](https://img.shields.io/badge/Bash-272E35?style=for-the-badge&logo=gnu%20bash)](https://www.gnu.org/software/bash/)
 
 ## 🔧 Tools 
