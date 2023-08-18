@@ -5,7 +5,7 @@
 [![@cybervarun's Holopin board](https://holopin.me/cybervarun)](https://holopin.io/@cybervarun)
 
 <h2 align="left">TryHackMe Rank</h2>
-<img src="https://tryhackme-badges.s3.amazonaws.com/CyberVarun.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/CyberVarun.png" alt="TryHackMe"><a href="https://tryhackme.com/p/CyberVarun">Link</a>
 
 
 ## 🔗 Socials
